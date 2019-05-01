@@ -13,7 +13,7 @@
 }
 ```
 
-### Get Statistics (GET) - http://localhost:8081/statistics
+### Get Statistics (GET) - localhost:8081/statistics
 
 ```
 {
